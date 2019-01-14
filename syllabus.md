@@ -5,7 +5,7 @@
 
 **Email**: ritchie_cai@baylor.edu
 
-**Lab Time**: M 4:00pm-6:45pm, T 5:00pm-7:45pm
+**Lab Time**: MW 2:30pm-5:15pm
 
 **Classroom**: Rogers 115 Week1, Week 5-15; Rogers 305 Week 2-4
 
@@ -20,7 +20,7 @@
 In this laboratory course, you will gain practical experience with the tools and methods for designing, simulating, and implementing digital circuits.  You will apply the concepts learned in lecture (ELC 2337) and produce working examples of combinational and sequential logic circuits.
 
 
-## Course Objectives 
+## Course Objectives
 
 Upon completion of this course, students will
 - Be familiar with basic digital circuit building blocks (for example, decoders, multiplexers, shift registers) and be able to incorporate these fundamental logic circuits into larger, more complicated digital designs.
@@ -36,12 +36,12 @@ Upon completion of this course, students will
 
 ## Github
 
-I will be using [github classroom](https://classroom.github.com/) to distribute the assignments and grade them. The grade will be posted on both your assignment repository's issue section and on Canvas. Students are required to learn git and github classroom. 
+I will be using [github classroom](https://classroom.github.com/) to distribute the assignments and grade them. The grade will be posted on both your assignment repository's issue section and on Canvas. Students are required to learn git and github classroom.
 
 
 ## Lab Assignments
 
-Each laboratory exercise will have an assignment with specific instructions. Assignments will be posted together with each lab on github. By default, each assignment is due in one week after each lab. 
+Each laboratory exercise will have an assignment with specific instructions. Assignments will be posted together with each lab on github. By default, each assignment is due in one week after each lab.
 
 
 <!-- ## Laboratory Practical -->
@@ -68,5 +68,3 @@ Grade will be completely based on your lab assignments. Lab 1-10 will each carry
 |D           |[63-67)    |
 |D-          |[60-63)    |
 |F           |[00-60)    |
-
-
