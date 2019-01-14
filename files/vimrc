@@ -1,0 +1,23 @@
+" no tab
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set autoindent
+set statusline=%f
+" switch syntax highlighting on, when the terminal has colors
+" Also switch on highlighting the last used search pattern.
+
+set cindent
+set smartindent
+set autoindent
+"set cinkeys=0{,0},:,0#,!,!^F
+
+if &t_Co > 2 || has("gui_running")
+    syntax on
+    set hlsearch
+endif
+
+"backspace
+set backspace=indent,eol,start
+set rtp+=~/.fzf
+

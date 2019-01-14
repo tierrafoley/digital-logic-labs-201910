@@ -1,0 +1,17 @@
+*
+
+!.gitignore
+!*.md
+!*.PNG
+!*.png
+!*.JPG
+!*.jpg
+!*.JPEG
+!*.jpeg
+!*.v
+
+!doc/
+!doc/vimrc
+!doc/bash_profile
+!pics/
+!src/
