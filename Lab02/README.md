@@ -164,3 +164,7 @@ are in parallel (i.e. connected to the same points on each end).  This is one ba
 Components in series (end-to-end) is the other.  These two basic configurations, parallel and series, 
 are used to make almost every gate type, just as you observed with the pushbuttons earlier.  How does 
 it work?  Be prepared to discuss your thoughts.  Test its operation and show it to the lab instructor.
+
+## Assignment
+
+See [Assignment](Assignment.md).
