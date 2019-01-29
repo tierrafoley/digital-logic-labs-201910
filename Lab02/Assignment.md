@@ -20,10 +20,10 @@ the transistor of the Nor gate). Answer the following quuestion
 
  A | B | result
 :-:|:-:|:-----:
- ? | ? | ?
- ? | ? | ?
- ? | ? | ?
- ? | ? | ?
+ 0 | 0 | 0
+ 0 | 1 | 0
+ 1 | 0 | 0
+ 1 | 1 | 1
 
 - What logic does it implement? (1 pt)
 
