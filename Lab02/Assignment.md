@@ -20,12 +20,13 @@ the transistor of the Nor gate). Answer the following quuestion
 
  A | B | result
 :-:|:-:|:-----:
- ? | ? | ?
- ? | ? | ?
- ? | ? | ?
- ? | ? | ?
+ 0 | 0 | 0
+ 0 | 1 | 0
+ 1 | 0 | 0
+ 1 | 1 | 1
 
 - What logic does it implement? (1 pt)
+And Gate
 
 ## Explain how NOR Gate works with pictures of different current flow scenarios. (2 pts)
 
