@@ -28,12 +28,12 @@ the transistor of the Nor gate). Answer the following quuestion
 - What logic does it implement? (1 pt)
 AND gate
 ## Explain how NOR Gate works with pictures of different current flow scenarios. (2 pts)
-![Nor Gate 00](/pics/00 nor.jpg)
-![Nor Gate 01](/pics/01 nor.jpg)
-![Nor Gate 11](/pics/11 nor.jpg)
+![Nor Gate 00](/pics/00nor.jpg)
+![Nor Gate 01](/pics/01nor.jpg)
+![Nor Gate 11](/pics/11nor.jpg)
 
 
 ## Explain how Final Gate works with pictures of different current flow scenarios. (2 pts)
 ![Final Gate 01](/pics/final.jpg)
-![Final Gate 11](/pics/11 final.jpg)
-![Final Gate 00](/pics/00 final.jpg)
+![Final Gate 11](/pics/11final.jpg)
+![Final Gate 00](/pics/00final.jpg)
